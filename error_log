@@ -1,0 +1,8 @@
+[05-Aug-2023 22:55:10 America/New_York] PHP Warning:  require(/home/srsomgcd/srmart.xyz/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/srsomgcd/srmart.xyz/index.php on line 34
+[05-Aug-2023 22:55:10 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/srsomgcd/srmart.xyz/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/srsomgcd/srmart.xyz/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/srsomgcd/srmart.xyz/index.php on line 34
+[18-Aug-2023 09:06:27 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/srmanhmj/public_html/app/Http/Controllers/Frontend/IndexController.php on line 3
+[18-Aug-2023 09:06:50 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/srmanhmj/public_html/app/Http/Controllers/Frontend/IndexController.php on line 3
+[20-Aug-2023 02:58:00 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/srmanhmj/public_html/app/Http/Controllers/Frontend/IndexController.php on line 3
